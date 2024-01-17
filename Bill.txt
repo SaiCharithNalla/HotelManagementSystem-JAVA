@@ -1,0 +1,12 @@
+Customer Details
+
+Name :Sai
+Phone :9010724491
+Aadhar Number:123456789123
+Bill:
+Choice of Room: Deluxe Room,Price:6000
+Type of Bed: Single Cot
+Number of Occupants 1
+Cost of Room and Amenities: 45800.0
+Bill at Restaurant: 70.0
+Total Payable Amount: 45870.0
